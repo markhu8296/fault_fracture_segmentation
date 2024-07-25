@@ -1,0 +1,13 @@
+numpy
+torch
+matplotlib
+scipy
+torchvision
+tqdm
+visdom
+nibabel
+scikit-image
+h5py
+pandas
+dominate
+torchsample@ https://github.com/ozan-oktay/torchsample/tarball/master#egg=torchsample-0.1.3
